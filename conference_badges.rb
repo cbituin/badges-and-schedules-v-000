@@ -24,5 +24,4 @@ def assign_rooms(arr)
 end
 
 def printer(attendees)
-  puts attendees
 end
