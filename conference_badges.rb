@@ -12,3 +12,9 @@ def batch_badge_creator(arr)
   end
   newArray
 end
+
+def assign_rooms(arr)
+  arr.each do |speaker|
+    
+  end
+end
