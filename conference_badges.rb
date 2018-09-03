@@ -15,6 +15,7 @@ end
 
 def assign_rooms(arr)
   arr.each do |speaker|
-    
+    room = arr.index(speaker) + 1
+    "Hello, #{speaker}! You'll be assigned to room #{room}!"
   end
 end
